@@ -1,3 +1,10 @@
+DEVELOPED BY: ABISHA RANI S
+
+REG.NO: 212224040012
+
+## DATA:04/03/2025
+
+
 #  Mean and variance of a discrete  distribution
 
 
@@ -49,13 +56,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
-NAME:ABISHA RANI S
-
-REG NO:212224040012
-
-DEPT:CSE
-
-DATE:29/04/2025
 ```
 import numpy as np
 L=[int(i) for i in input().split()]
